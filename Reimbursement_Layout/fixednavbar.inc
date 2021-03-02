@@ -9,10 +9,10 @@
 	  <div >
 		<ul class="nav nav-tabs card-header-tabs">
 		  <li class="nav-item">
-			<a class="nav-link active" href="#">Create Ticket</a>
+			<a class="nav-link" href="userpaneltest-createticket.php">Create Ticket</a>
 		  </li>
 		  <li class="nav-item">
-			<a class="nav-link" href="#">Pending Tickets</a>
+			<a class="nav-link" href="userpaneltest-pending.php">Pending Tickets</a>
 		  </li>
 		  <li class="nav-item">
 			<a class="nav-link" href="#">Completed Tickets</a>
